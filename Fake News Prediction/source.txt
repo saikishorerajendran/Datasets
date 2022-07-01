@@ -1,0 +1,3 @@
+SOURCE of the Dataset:
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2RmVTZQc0lWeU5fLU5lR0g2ZGZEWlJ6d0hGUXxBQ3Jtc0tsY01rcGo5Z3pjRENPUVFEMjBDWXI5eVBKSldiNWdoV1lCcE0yUDhiMDZlaDkxQ3c5ZmZMVy0wRjlNa0dsdnczYzlYRWUwTWoyOWk4VWx6M1ZFZGo4THZrclZCX2ZFenZybURzZ2lWeEhLcnBZUDBHNA&q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ffake-news%2Fdata%3Fselect%3Dtrain.csv&v=nacLBdyG6jE
